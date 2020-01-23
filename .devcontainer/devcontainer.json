@@ -11,8 +11,9 @@
         "files.eol": "\n"
     },
     "extensions": [
-        //"ms-azuretools.vscode-azureterraform",
-        //"mauve.terraform",
-        "ms-vscode.vscode-node-azure-pack"
+        "ms-azuretools.vscode-azureterraform",
+        "mauve.terraform",
+        "ms-vscode.vscode-node-azure-pack",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
     ]
 }
