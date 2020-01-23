@@ -11,8 +11,8 @@
         "files.eol": "\n"
     },
     "extensions": [
-        "ms-azuretools.vscode-azureterraform",
-        "mauve.terraform",
+        //"ms-azuretools.vscode-azureterraform",
+        //"mauve.terraform",
         "ms-vscode.vscode-node-azure-pack"
     ]
 }
